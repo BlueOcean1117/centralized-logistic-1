@@ -1,1 +1,0 @@
-export default function Wizard(){return (<div>Wizard Placeholder</div>);} 
